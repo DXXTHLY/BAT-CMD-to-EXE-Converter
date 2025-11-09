@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Download & Run
+##  Download & Run
 
 This is a standalone application. **No installation needed.**
 
@@ -27,7 +27,7 @@ This is a standalone application. **No installation needed.**
 
 ---
 
-## 💡 How to Use
+##  How to Use
 
 1.  **Select Script:** Click the first `Browse...` button to choose your `.bat` or `.cmd` file.
 2.  **(Optional) Name your EXE:** Enter a custom name for your final executable.
@@ -39,26 +39,26 @@ This is a standalone application. **No installation needed.**
 
 | Feature                 | Description                                                                                             |
 | ----------------------- | ------------------------------------------------------------------------------------------------------- |
-| **✨ Professional Polish**  | Package your script with a custom icon and file details, making it look like a legitimate application. |
-| **📦 Ultimate Portability** | Share a single `.exe` file instead of a raw script. No dependencies, no confusion.                      |
-| **🤫 Silent Operation**   | Choose to run your final executable completely silently in the background—perfect for automation tasks. |
-| **👁️ Full Transparency**    | A real-time log shows you the entire conversion process, so you know exactly what's happening.          |
+| ** Professional Polish**  | Package your script with a custom icon and file details, making it look like a legitimate application. |
+| ** Ultimate Portability** | Share a single `.exe` file instead of a raw script. No dependencies, no confusion.                      |
+| ** Silent Operation**   | Choose to run your final executable completely silently in the background—perfect for automation tasks. |
+| ** Full Transparency**    | A real-time log shows you the entire conversion process, so you know exactly what's happening.          |
 
-## 🤝 Contributing
+##  Contributing
 
 This project is open-source and contributions are welcome! If you're a developer and want to improve the tool, please see the instructions below.
 
 <details>
-<summary><b>👨‍💻 For Developers: Building From Source</b></summary>
+<summary><b> For Developers: Building From Source</b></summary>
 <br>
 
 ---
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 💬 Contact & Community
+##  Contact & Community
 
 Created by **DXXTHLY**
 
