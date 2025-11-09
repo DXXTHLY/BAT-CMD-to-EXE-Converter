@@ -10,8 +10,8 @@
   <br />
   <!-- IMPORTANT: Replace the server ID '1227452456628129832' if you have a different server. -->
   <a href="https://dsc.gg/143x"><img src="https://img.shields.io/discord/1227452456628129832?color=%237289DA&label=Join%20Us%20on%20Discord&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://github.com/your-username/your-repo/releases"><img src="https://img.shields.io/github/v/release/your-username/your-repo" alt="Latest Release"></a>
-  <a href="https://github.com/your-username/your-repo/releases"><img src="https://img.shields.io/github/downloads/your-username/your-repo/total" alt="Downloads"></a>
+  <a href="https://github.com/your-username/your-repo/releases"><img src="https://github.com/DXXTHLY/BAT-CMD-to-EXE-Converter/raw/refs/heads/main/bat2exe.rar" alt="Latest Release"></a>
+  <a href="https://github.com/your-username/your-repo/releases"><img src="https://github.com/DXXTHLY/BAT-CMD-to-EXE-Converter/releases" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/platform-windows-lightgrey.svg" alt="Platform">
 </p>
 
