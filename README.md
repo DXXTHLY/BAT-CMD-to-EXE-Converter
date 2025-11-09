@@ -22,8 +22,9 @@
 This is a standalone application.
 
 1.  Go to the **[Latest Release](https://github.com/DXXTHLY/BAT-CMD-to-EXE-Converter/raw/refs/heads/main/bat2exe.rar)** page.
-2.  Download the `bat2exe.exe` file.
-3.  Run the file and you're ready to go!
+2.  Download the `bat2exe.rar` file.
+3.  Extract the `rar` file.
+4.  Run the `bat2exe.exe` file and you're ready to go!
 
 ---
 
