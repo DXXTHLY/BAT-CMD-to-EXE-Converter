@@ -51,7 +51,9 @@ This project is open-source and contributions are welcome! If you're a developer
 
 <details>
 <summary><b> For Developers: Building From Source</b></summary>
-<br>
+Join the Discord for more information.
+  
+  <br>
 
 ---
 
