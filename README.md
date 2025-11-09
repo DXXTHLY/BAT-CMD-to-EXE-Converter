@@ -6,14 +6,27 @@
 
 <p align="center">
   The simplest way to package your Windows Batch scripts into professional, standalone executables.
-  <br />
-  <br />
-  <!-- IMPORTANT: Replace the server ID '1227452456628129832' if you have a different server. -->
-  <a href="https://dsc.gg/143x"><img src="https://img.shields.io/discord/1227452456628129832?color=%237289DA&label=Join%20Us%20on%20Discord&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://github.com/your-username/your-repo/releases"><img src="https://github.com/DXXTHLY/BAT-CMD-to-EXE-Converter/raw/refs/heads/main/bat2exe.rar" alt="Latest Release"></a>
-  <a href="https://github.com/your-username/your-repo/releases"><img src="https://github.com/DXXTHLY/BAT-CMD-to-EXE-Converter/releases" alt="Downloads"></a>
-  <img src="https://img.shields.io/badge/platform-windows-lightgrey.svg" alt="Platform">
+  <br /><br />
+  
+  <!-- Discord badge -->
+  <a href="https://dsc.gg/143x">
+    <img src="https://img.shields.io/discord/1227452456628129832?color=%237289DA&label=Join%20Us%20on%20Discord&logo=discord&logoColor=white" alt="Discord">
+  </a>
+
+  <!-- Latest release badge -->
+  <a href="https://github.com/DXXTHLY/BAT-CMD-to-EXE-Converter/releases/latest">
+    <img src="https://img.shields.io/github/v/release/DXXTHLY/BAT-CMD-to-EXE-Converter?label=Latest%20Release&color=blue" alt="Latest Release">
+  </a>
+
+  <!-- Downloads link badge -->
+  <a href="https://github.com/DXXTHLY/BAT-CMD-to-EXE-Converter/releases">
+    <img src="https://img.shields.io/badge/Downloads-GitHub-blue?logo=github" alt="Downloads">
+  </a>
+
+  <!-- Platform badge -->
+  <img src="https://img.shields.io/badge/platform-Windows-lightgrey.svg" alt="Platform">
 </p>
+
 
 ---
 
