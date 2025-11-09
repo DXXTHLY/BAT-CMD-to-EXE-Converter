@@ -1,3 +1,5 @@
+<p align="center">note: i will be real.. i only made this because I got tired of doing it manually. </p>
+
 <p align="center">
   <img src="https://i.gyazo.com/4414c54255a4a62a435481eb98e0b9d0.png" alt="Application Screenshot" width="750"/>
 </p>
